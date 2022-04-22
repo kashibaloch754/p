@@ -1,2 +1,2 @@
-from Kashif import Jadugar
+from Jadugar import Jadugar
 Jadugar()
